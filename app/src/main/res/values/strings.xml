@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BikeShare</string>
+    <string name="end_ride">End Ride at</string>
+    <string name="start_ride">Start Ride at</string>
+    <string name="list_ride">List Rides</string>
+    <string name="what_bike">Bike\'s Name</string>
+    <string name="end_ride1">End Ride</string>
+    <string name="start_ride1">Start Ride</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
